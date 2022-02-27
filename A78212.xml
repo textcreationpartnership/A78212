@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bartholomevv faire or Variety of fancies, vvhere you may find a faire of vvares, and all to please your mind. With the severall enormityes and misdemeanours, which are there seene and acted.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78212</idno>
+            <idno type="STC">Wing B980</idno>
+            <idno type="STC">Thomason E173_6</idno>
+            <idno type="STC">ESTC R2387</idno>
+            <idno type="EEBO-CITATION">99872046</idno>
+            <idno type="PROQUEST">99872046</idno>
+            <idno type="VID">157063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157063)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bartholomevv faire or Variety of fancies, vvhere you may find a faire of vvares, and all to please your mind. With the severall enormityes and misdemeanours, which are there seene and acted.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page features woodcut illustration.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bartholomew Fair --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157063:1" rendition="simple:additions"/>
+            <p>BARTHOLOMEVV FAIRE OR
+<q>
+                  <l>Variety of fancies, vvhere you may find</l>
+                  <l>a faire of vvares, and all to pleaſe your mind.</l>
+               </q>
+            </p>
+            <figure>
+               <figDesc>depiction of a snake eater at Bartholomew Fair</figDesc>
+            </figure>
+            <p>With The ſeverall Enormityes and miſdemea<g ref="char:EOLhyphen"/>nours, which are there ſeene and acted.</p>
+            <p>LONDON Printed for <hi>Richard Harper</hi> at the <hi>Bible</hi> and <hi>Harpe</hi> in Smithfield 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157063:2"/>
+            <pb n="1" facs="tcp:157063:2"/>
+            <head>BARTHOLOMEVV FAIRE OR Variety of Fancies, vvhere you may find a faire of vvares, and all to pleaſe your mind.</head>
+            <head type="sub">With The ſeverall enormityes and miſdemeanours, which are there ſeene and acted.</head>
+            <p>BArtholomew Faire begins on the twenty fourth day of <hi>Auguſt,</hi> and is then of ſo vaſt an extent, that it is contained in no leſſe then four ſeveral pariſhes, namely, Chriſt Church, Great and Little Saint Bartholomewes, and Saint Sepulchres. Hither reſort people of all ſorts, High and Low, Rich and Poore, from cities, townes, and countrys; of all ſects, Papiſts, Atheiſts, Anabaptiſts, and Browniſts: and of all conditions, good and bad, vertuous and vitious, Knaves and fooles, Cuckolds and Cuckoldmakers, Bauds, and Whores, Pimpes and Panders, Rogues and Raſ<g ref="char:EOLhyphen"/>calls, the little Loud-one and the witty wanton.</p>
+            <p>And now that wee may the better take an ex<g ref="char:EOLhyphen"/>act ſurvay of the whole Faire, Firſt let us enter in<g ref="char:EOLhyphen"/>to Chriſt Church Cloyſters, which are now hung ſo full of pictures, that you would take that place or rather miſtake it for Saint <hi>Peters</hi> in <hi>Rome;</hi> onely this is the difference, thoſe there are ſet up for wor<g ref="char:EOLhyphen"/>ſhip, theſe here for ſale: But by the way, I'le tell
+<pb n="4" facs="tcp:157063:3"/>you a tale of a preciſe puritan, who came in all haſt from <hi>Lincolne</hi> to <hi>London,</hi> purpoſely to ſee the Faire, where he had never bin before, and coming out of newgate marget, through Chriſt-Church into the Cloyſters, and clevating the ſnow bals of his eyes, he preſently eſpyes the picture of Chriſt and his twelve Apoſtles, with the virgin Mary, and many other Saints departed; at which ſight the very thought and ſtrong conceit of ſuperſtation ſet ſuch a ſharp edge upon the pure mettle of his inflam'd zeale, that very manfully like a man of va'our, and ſon of mars, he ſteps to a ſtall wel ſtor'd with two-pany halberts, and woodden backswords, where having arm'd himſelfe <hi>Capa Pea,</hi> (as he thought) he begins in a violent paſſion, to exclaime againſt the I do atry of the times, that it was grown abo<g ref="char:EOLhyphen"/>minable; proteſting that the whore of <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bilo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was crept into Chriſt Church, and that the good mo<g ref="char:EOLhyphen"/>tions of the Spirit had brought him to owne, to make a ſacrifice of thoſe Idle <hi>Idolls,</hi> to his juſt an<g ref="char:EOLhyphen"/>gor and holy indignation, which begot no ſmall laughter to the multitude, which throng'd about him, that put him into ſuch a chafe, in ſo much that at the laſt, like <hi>Roſicleare,</hi> the Knight of the ſunne, or <hi>Don Quixot,</hi> moſt furiouſly he makes an aſſault, and battery upon the poore innocent pic<g ref="char:EOLhyphen"/>tures, till the ſhopkeepers apprehending him had him before a Conſtable, who forthwith comitted my little hot furie to the ſtocks, where we will leave him to coole his heeles, whilſt we take a fur<g ref="char:EOLhyphen"/>ther view of the Faire. And now being arriv'd through the long walke, to Saint Bartholomewes
+<pb n="5" facs="tcp:157063:3"/>hoſpitall; that place (me thinkes) appeares to me a fucking Exchange, and may be ſo termed, not unfitly; for there many a handſome wench ex<g ref="char:EOLhyphen"/>changes her maidenhead for a ſmall favour, as a moiety of bone lace, a ſlight ſilver bodkin, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hoopt<g ref="char:EOLhyphen"/>ring, or the like toye; for ſhee comes not thither with her ſweet-heart, to ſerve her owne turne on<g ref="char:EOLhyphen"/>ly, but alſo to ſatisfie his deſire; according to the old ſaying, one good turne deſerves another.</p>
+            <p>Let us now make a progreſſe into Smith-field, which is the heart of the Faire, where in my heart I thinke there are more motions in a day, to be ſeene, then are in a terme in Weſtminſter Hall to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard. But whilſt you take notice of the ſeve<g ref="char:EOLhyphen"/>rall motions there, take this caution along with you, let one eye watch narrowly that no ones <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and make a motion into your pocket, which is the next way to moue you to impatience.</p>
+            <p>The Faire is full of gold and ſilver-drawers: Iuſt as Lent is to the Fiſhmonger, ſo is Bartholomew Faire to the Pickpocket; It is his high harveſt, which is never bad, but when his cart goes up hol<g ref="char:EOLhyphen"/>bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne.</p>
+            <p>The Citty-marſhalls are as dreadfull to theſe yongſters, as the Plague is to our London Actors: That reſtraines them from playing, and they hin<g ref="char:EOLhyphen"/>der theſe from working; you may quickly know theſe nimble youthes, and likely find them very bu<g ref="char:EOLhyphen"/>ſie-bodyes in quarrells, which nothing concerne them, and ſometimes in diſcourſe with their wen<g ref="char:EOLhyphen"/>ches, (the ſiſters of the ſcabard) for the moſt part to be found in a croud or throng of people. Their but<g ref="char:EOLhyphen"/>tockes
+<pb n="4" facs="tcp:157063:4"/>walke up and down the Faire very demurely; The end of their preambulation is to be taken up by ſome countrey-Gull, or city-cockſcombe, and then your hand is no ſooner in one of their plackets, but theirs is as nimble in one of your pockets; and if you take not heed of them, they will give you fairings with the poxe. Some of your cutpurſes are in fee with cheating coſtermongers, who have a trick now and then to throw downe a basket of re<g ref="char:EOLhyphen"/>fuge peares, which prove cloake-peares to thoſe that ſhall looſe their hats or choaks in ſtriving who ſhall gather faſteſt. They have many dainty baits to draw a bit, and (if you be not vigilant) you ſhall hardly eſcape their nets: fine fowlers they are, for every finger of theirs is a lime-twigge, with which they catch dotterels. They are excellently well read in Phyfiognomy; for they will know how ſtrong you are in the purſe by looking in your face; and for the more certainty thereof, they will follow you cloſe, and never leave you till you draw your purſe, or they for you, which they'l be ſure to have, (if you looke not to it) though they kiſſe new-gate for it. It is remarkable, and worth your obſervation, to be<g ref="char:EOLhyphen"/>hold and heare the ſtrange fights, and confus'd noiſe in the Faire. Here a Knave in a fooles co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, with a trumpet ſounding, or on a drumme beating, in<g ref="char:EOLhyphen"/>vites you and would faine perſwade you to ſee his puppets; There a Rogue like a wild woodman, or in an Antick ſhap like an Incubus, deſires your com<g ref="char:EOLhyphen"/>pany, to view his motion; on the other ſide, Hocus Pocus with three yards of tape or ribbin in's hand, ſhewing his art of Legerdemaine, to the admiration and aſtoniſhment of a company of cockoloaches.
+<pb n="5" facs="tcp:157063:4"/>Amongſt theſe you ſhall ſee a gray gooſe-cap (as wiſe as the reſt,) with a what do ye lacke, in his mouth, ſtanding is boothe; ſhaking a rattle, or ſcra<g ref="char:EOLhyphen"/>ping on a fiddle, with which children are ſo taken, that they preſently cry out for theſe fopperies; And all theſe together make ſuch a diſtracted noiſe, that you would thinck Babell were not comparable to it. Here there are alſo your gameſters in action; ſome turning of a whimſey, others throwing for Pewter, who can quickly diſſolve a round ſhilling into a three half peny ſaucer. Long-lane at this time looks very faire, and puts out her beſt cloaths, with the wrong ſide outward, ſo turn'd for their bette turning off; And cloth Faire, is now in great requeſt: well fare the Ale-houſes therein; yet better may a man fare (but at a dearer rate) in the pig mar<g ref="char:EOLhyphen"/>ket, alias Paſty-nooke, or Pye corner, where pigges are al houres of the day on the ſtalls piping hot, and would cry (it they could ſpeak) come eate me, but they are ſo damnable deare, and the reckonings for them are ſo ſaucy, that a man had as good licke his fingers in a baudy houſe, as at this time come into one of thoſe houſes, where the fat greaſy Haſteffe inſtructs N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck Froth her tapſter, to aske a ſhilling more for a pigs head of a woman big with child, in regard of her longing, then of another ordinary cu<g ref="char:EOLhyphen"/>mer. Theſe unconſcionable exactions, and exceſſive inflammations of reckonings made that angle of the Faire too hot for my company; therefore I re<g ref="char:EOLhyphen"/>ſolv'd with my ſelf to ſteere my courſe another way, and having once got out, not to come again in haſt.</p>
+            <epigraph>
+               <q>
+                  <l>Now farewell to the Faire; you who are wiſe,</l>
+                  <l>Preſerve your Purſes, whilſt you pleaſe your eyes.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
